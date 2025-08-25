@@ -1,7 +1,7 @@
 nav ol{
     display: flex;
     flex-direction: row;
-    gap: 510px;
+    gap: 10px;
     color-scheme: light dark;
     align-items: center;
 }
